@@ -17,7 +17,7 @@ const readFile = util.promisify(fs.readFile);
 const HtmlTableToJson = require('html-table-to-json');
 const remove = util.promisify(fs.remove);
 
-art.Figlet.fontPath = "./";
+art.Figlet.fontPath = './';
 
 module.exports = function (data, c) {
     spinner.start("Render data...");

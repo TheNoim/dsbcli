@@ -4,7 +4,7 @@ Hello my friends!!!111!
 
 Do you ever wanted to check the dsb over the cli? No? __But now you can!__ :D
 
-![Demo](Demo.gif)
+![Demo](resources/Demo.gif)
 
 It is very simple:
 
