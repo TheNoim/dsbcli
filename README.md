@@ -4,7 +4,7 @@ Hello my friends!!!111!
 
 Do you ever wanted to check the dsb over the cli? No? __But now you can!__ :D
 
-![Demo](https://i.imgur.com/piedy8h.gif)
+[Demo](http://i.imgur.com/piedy8h.gifv)
 
 It is very simple:
 
